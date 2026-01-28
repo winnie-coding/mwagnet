@@ -1,4 +1,3 @@
-#MWAG-Net
 ## ⚙️ How to use
 ```bash
 conda create -n mwagnet python=3.10 -y
