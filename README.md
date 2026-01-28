@@ -15,5 +15,5 @@ python train.py  --dataset {dataset} --input_w {input_size} --input_h {input_siz
 ```
 ## Val
 ```bash
-python val.py --name ${dataset}_mwagnet --output_dir [YOUR_OUTPUT_DIR]
+python val.py --name {dataset}_mwagnet --output_dir [YOUR_OUTPUT_DIR]
 ```
